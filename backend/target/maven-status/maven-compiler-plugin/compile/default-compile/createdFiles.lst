@@ -1,0 +1,9 @@
+com/iitb/coursemanagement/config/WebConfig.class
+com/iitb/coursemanagement/model/CourseInstance.class
+com/iitb/coursemanagement/model/Course.class
+com/iitb/coursemanagement/controller/CourseInstanceController.class
+com/iitb/coursemanagement/CourseManagementApplication.class
+com/iitb/coursemanagement/config/OpenApiConfig.class
+com/iitb/coursemanagement/repository/CourseInstanceRepository.class
+com/iitb/coursemanagement/repository/CourseRepository.class
+com/iitb/coursemanagement/controller/CourseController.class
