@@ -1,9 +1,9 @@
 # API Testing Report
-Generated on: 2025-06-24 04:51:28
+Generated on: 2025-06-24 05:04:32
 
 ## Test Environment
 - Host: http://localhost:8080
-- Timestamp: 2025-06-24_04-51-28
+- Timestamp: 2025-06-24_05-04-32
 
 ## Test Results Summary
 
@@ -111,5 +111,5 @@ Cannot delete course as it is a prerequisite for other courses: CS201```
 
 ## Test Environment Details
 - Operating System: Darwin
-- Date: Tue Jun 24 04:51:41 IST 2025
+- Date: Tue Jun 24 05:04:45 IST 2025
 - API Version: v1.0
